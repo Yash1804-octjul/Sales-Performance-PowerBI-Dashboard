@@ -33,18 +33,23 @@ The report consists of five pages:
 
 ### 1. Overview
 Provides a high-level overview of business performance using key metrics and visualizations. 
+![Power BI Dashboard](https://github.com/user-attachments/assets/df36d287-8acc-4575-920b-f0a878aea86e)
 
 ### 2. Top & Bottom 5 Analysis
 Analyzes the top and bottom-performing products based on different business metrics, helping identify strong and weak performers.
+![Power BI Dashboard](https://github.com/user-attachments/assets/8c9671b7-886d-421c-83c8-4a02ed611cb2)
 
 ### 3. Comparison – Sales, Profit & Quantity
 Provides comparisons of sales, profit, and quantity sold to understand business performance across different dimensions.
+![Power BI Dashboard](https://github.com/user-attachments/assets/13e07dee-7255-4a57-95f4-1e3e42701def)
 
 ### 4. Edit Interaction
 Demonstrates interactive visual behavior and customized visual interactions within Power BI.
+![Power BI Dashboard](https://github.com/user-attachments/assets/ee61e8d2-6317-4538-9113-476e09690999)
 
 ### 5. Table Visual
 Displays detailed transactional information, including customer, order, product, promotion, discount, and sales-related fields.
+![Power BI Dashboard](https://github.com/user-attachments/assets/15fd68e2-6ef5-4c28-81e7-17dd8a97c761)
 
 ## 🧹 Data Model & Analysis
 
